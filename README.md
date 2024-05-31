@@ -4,7 +4,7 @@
 
 Welcome to the repository. This repository contains all the relevant code that underpins the results presented in the research paper: [PhysRevD.109.044051](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.044051), authored by Sachin Shukla, Lalit Pathak, and Anand Sengupta.
 
-![BNS Collision](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp5OHl1c3c4enJ3bHExYW51aDRkeWRwMHlvOGF3eTN5NzlzbXp5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc1f8hcZ7LBe2Zzy/giphy.webp)
+![BNS Collision](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp5OHl1c3c4enJ3bHExYW51aDRkeWRwMHlvOGF3eTN5NzlzbXp5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc1f8hcZ7LBe2Zzy/giphy.webp)\
 Source: [MIT](https://youtu.be/sgkDoSbHHVU)
 
 LIGO-Aundha (A1), the Indian gravitational wave detector, is expected to join the International Gravitational-Wave Observatory Network (IGWN) and commence operations in the early 2030s. The primary objective of this work is to examine the impact of this additional detector on the accuracy of determining the direction of incoming transient signals from coalescing binary neutron star (BNS) sources.
