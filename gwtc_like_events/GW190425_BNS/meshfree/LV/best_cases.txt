@@ -1,0 +1,8 @@
+k 
+
+400  (chirp mass very well estimated)(good)
+500   (okay)
+600.  (good)
+800.  (good)(lower peak towards injection)
+1100. (okay)
+1200. (good+)

@@ -1,0 +1,38 @@
+Evidence:61.8921584604165
+initial_gap: 200 secs, trigTime = 1263097873.9999945 
+Evidence:56.87066176809357
+initial_gap: 300 secs, trigTime = 1263097973.9999924 
+Evidence:42.53763966485987
+initial_gap: 400 secs, trigTime = 1263098073.9999905 
+Evidence:35.051654562729695
+initial_gap: 500 secs, trigTime = 1263098173.9999883 
+Evidence:34.95556509015641
+initial_gap: 600 secs, trigTime = 1263098273.9999862 
+Evidence:46.73424211318153
+initial_gap: 700 secs, trigTime = 1263098373.9999843 
+Evidence:30.553309204937733
+initial_gap: 800 secs, trigTime = 1263098473.999982 
+Evidence:27.968411191706956
+initial_gap: 900 secs, trigTime = 1263098573.9999802 
+Evidence:38.06145241616638
+initial_gap: 1000 secs, trigTime = 1263098673.999978 
+Evidence:61.05684651203263
+initial_gap: 1200 secs, trigTime = 1263098873.999974 
+Evidence:54.93037236380504
+initial_gap: 1300 secs, trigTime = 1263098973.9999719 
+Evidence:36.23595733802926
+initial_gap: 1400 secs, trigTime = 1263099073.99997 
+Evidence:13.747378240868825
+initial_gap: 1500 secs, trigTime = 1263099173.9999678 
+Evidence:32.70648827598779
+initial_gap: 1600 secs, trigTime = 1263099273.999966 
+Evidence:47.81759062895953
+initial_gap: 1700 secs, trigTime = 1263099373.9999638 
+Evidence:18.17349143377343
+initial_gap: 1800 secs, trigTime = 1263099473.9999616 
+Evidence:38.585478306042035
+initial_gap: 1900 secs, trigTime = 1263099573.9999597 
+Evidence:25.76789071520309
+initial_gap: 2000 secs, trigTime = 1263099673.9999576 
+Evidence:20.808518150797553
+initial_gap: 2100 secs, trigTime = 1263099773.9999557 

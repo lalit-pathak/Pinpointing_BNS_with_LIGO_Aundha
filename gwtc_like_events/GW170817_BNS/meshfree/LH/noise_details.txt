@@ -1,0 +1,2 @@
+Evidence:391.71316988859405
+initial_gap: 1500 secs, trigTime = 1187010917.9999619 
